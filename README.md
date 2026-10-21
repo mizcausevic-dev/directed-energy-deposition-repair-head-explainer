@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/directed-energy-deposition-repair-head-explainer/
 
+Repository: https://github.com/mizcausevic-dev/directed-energy-deposition-repair-head-explainer
+
 ## What this is
 
 An interactive anatomy plate for Directed-Energy Deposition Repair Head. Play, scrub, or jump the five stages. The same frame always draws the same picture.
